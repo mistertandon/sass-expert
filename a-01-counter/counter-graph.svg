@@ -1,0 +1,125 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="308pt" height="400pt" viewBox="0.00 0.00 308.5 400">
+<g id="graph0" class="graph" transform="translate(60.543009273059724,352.2707025404924) scale(0.8312379020038941)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-396 304.5,-396 304.5,4 -4,4"/>
+<g id="clust1" class="cluster" data-name="clusterCounter">
+
+<path fill="#445773" stroke="#445773" d="M33.75,-8C33.75,-8 128.25,-8 128.25,-8 134.25,-8 140.25,-14 140.25,-20 140.25,-20 140.25,-235 140.25,-235 140.25,-241 134.25,-247 128.25,-247 128.25,-247 33.75,-247 33.75,-247 27.75,-247 21.75,-241 21.75,-235 21.75,-235 21.75,-20 21.75,-20 21.75,-14 27.75,-8 33.75,-8"/>
+<text text-anchor="middle" x="81" y="-230.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">Counter</text>
+</g>
+<g id="clust3" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="8,-255 8,-384 268.25,-384 268.25,-255 8,-255"/>
+<text text-anchor="middle" x="138.12" y="-367.4" font-family="Times,serif" font-size="14.00">Legend</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterCounters.Counter">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M186,-8C186,-8 280.5,-8 280.5,-8 286.5,-8 292.5,-14 292.5,-20 292.5,-20 292.5,-235 292.5,-235 292.5,-241 286.5,-247 280.5,-247 280.5,-247 186,-247 186,-247 180,-247 174,-241 174,-235 174,-235 174,-20 174,-20 174,-14 180,-8 186,-8"/>
+<text text-anchor="middle" x="233.25" y="-230.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0">Counters.Counter</text>
+</g>
+<!-- Counter.current -->
+<g id="node1" class="node" pointer-events="visible" data-name="Counter.current">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="81" cy="-196" rx="38.26" ry="18"/>
+<text text-anchor="middle" x="81" y="-191.8" font-family="Times,serif" font-size="14.00">current</text>
+</g>
+<!-- Counters.Counter.current --><g id="edge1" class="edge" data-name="Counter.current-&gt;Counters.Counter.current" data-comment="Counters.Counter.current">
+
+<path fill="none" stroke="white" stroke-width="2" d="M120.69,-196C139.01,-196 161.13,-196 180.83,-196"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="180.66,-199.5 190.66,-196 180.66,-192.5 180.66,-199.5"/>
+</g>
+<g id="node5" class="node" pointer-events="visible" data-name="Counters.Counter.current">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="233.25" cy="-196" rx="38.26" ry="18"/>
+<text text-anchor="middle" x="233.25" y="-191.8" font-family="Times,serif" font-size="14.00">current</text>
+</g>
+<!-- Counter.current&#45;&gt;Counters.Counter.current -->
+
+<!-- Counter.increment -->
+<g id="node2" class="node" pointer-events="visible" data-name="Counter.increment">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="81" cy="-142" rx="49.79" ry="18"/>
+<text text-anchor="middle" x="81" y="-137.8" font-family="Times,serif" font-size="14.00">increment</text>
+</g>
+<!-- Counters.Counter.increment --><g id="edge2" class="edge" data-name="Counter.increment-&gt;Counters.Counter.increment" data-comment="Counters.Counter.increment">
+
+<path fill="none" stroke="white" stroke-width="2" d="M132.03,-142C144.01,-142 156.94,-142 169.41,-142"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="169.15,-145.5 179.15,-142 169.15,-138.5 169.15,-145.5"/>
+</g>
+<g id="node6" class="node" pointer-events="visible" data-name="Counters.Counter.increment">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="233.25" cy="-142" rx="49.79" ry="18"/>
+<text text-anchor="middle" x="233.25" y="-137.8" font-family="Times,serif" font-size="14.00">increment</text>
+</g>
+<!-- Counter.increment&#45;&gt;Counters.Counter.increment -->
+
+<!-- Counter.decrement -->
+<g id="node3" class="node" pointer-events="visible" data-name="Counter.decrement">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="81" cy="-88" rx="51.5" ry="18"/>
+<text text-anchor="middle" x="81" y="-83.8" font-family="Times,serif" font-size="14.00">decrement</text>
+</g>
+<!-- Counters.Counter.decrement --><g id="edge3" class="edge" data-name="Counter.decrement-&gt;Counters.Counter.decrement" data-comment="Counters.Counter.decrement">
+
+<path fill="none" stroke="white" stroke-width="2" d="M133.71,-88C144.57,-88 156.15,-88 167.42,-88"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="167.42,-91.5 177.42,-88 167.42,-84.5 167.42,-91.5"/>
+</g>
+<g id="node7" class="node" pointer-events="visible" data-name="Counters.Counter.decrement">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="233.25" cy="-88" rx="51.5" ry="18"/>
+<text text-anchor="middle" x="233.25" y="-83.8" font-family="Times,serif" font-size="14.00">decrement</text>
+</g>
+<!-- Counter.decrement&#45;&gt;Counters.Counter.decrement -->
+<!-- Counters.Counter.reset -->
+<!-- Counter.reset -->
+<g id="node4" class="node" pointer-events="visible" data-name="Counter.reset">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="81" cy="-34" rx="29.03" ry="18"/>
+<text text-anchor="middle" x="81" y="-29.8" font-family="Times,serif" font-size="14.00">reset</text>
+</g><!-- Counter.reset&#45;&gt;Counters.Counter.reset -->
+<g id="node8" class="node" pointer-events="visible" data-name="Counters.Counter.reset" data-comment="Counter.reset-&gt;Counters.Counter.reset">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="233.25" cy="-34" rx="29.03" ry="18"/>
+<text text-anchor="middle" x="233.25" y="-29.8" font-family="Times,serif" font-size="14.00">reset</text>
+</g><g id="edge4" class="edge" data-name="Counter.reset-&gt;Counters.Counter.reset">
+
+<path fill="none" stroke="white" stroke-width="2" d="M111.33,-34C133.69,-34 164.82,-34 189.9,-34"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="189.71,-37.5 199.71,-34 189.71,-30.5 189.71,-37.5"/>
+</g>
+<!-- key -->
+<g id="node9" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="146,-351 16,-351 16,-263 146,-263 146,-351"/>
+<text text-anchor="start" x="65.64" y="-332.4" font-family="Times,serif" font-size="14.00">Internal Call</text>
+<text text-anchor="start" x="61.75" y="-312.4" font-family="Times,serif" font-size="14.00">External Call</text>
+<text text-anchor="start" x="39.2" y="-292.4" font-family="Times,serif" font-size="14.00">Defined Contract</text>
+<text text-anchor="start" x="25.6" y="-272.4" font-family="Times,serif" font-size="14.00">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node10" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="260.25,-351 206.25,-351 206.25,-263 260.25,-263 260.25,-351"/>
+<text text-anchor="start" x="223.25" y="-332.4" font-family="Times,serif" font-size="14.00">   </text>
+<text text-anchor="start" x="223.25" y="-312.4" font-family="Times,serif" font-size="14.00">   </text>
+<polygon fill="#445773" stroke="none" points="221.25,-287 221.25,-307 246.25,-307 246.25,-287 221.25,-287"/>
+<text text-anchor="start" x="223.25" y="-292.4" font-family="Times,serif" font-size="14.00">   </text>
+<polygon fill="none" stroke="#e8726d" points="223.25,-269 223.25,-285 244.25,-285 244.25,-269 223.25,-269"/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge5" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M139,-337C170.46,-337 181.36,-337 207.52,-337"/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="207.22,-340.5 217.22,-337 207.22,-333.5 207.22,-340.5"/>
+</g>
+
+<!-- key&#45;&gt;key2 -->
+
+
+<g id="edge6" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M139,-317C170.46,-317 181.36,-317 207.52,-317"/>
+<polygon fill="white" stroke="white" stroke-width="2" points="207.22,-320.5 217.22,-317 207.22,-313.5 207.22,-320.5"/>
+</g>
+</g>
+</svg>
